@@ -37,7 +37,7 @@ Click `save` to save your network. You are now ready to connect to your MySQL in
 
 In the command line, enter the following command:
 ```
-mysql -u root -p -h <instance-IP-address>
+mysql -u root -p -h <instance-public-IP-address>
 ```
 You will then be prompted to enter the password you created earlier when creating your MySQL instance.
 
