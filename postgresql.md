@@ -55,6 +55,8 @@ psql -U <User-name> -d <database-name> -h <host-IP-address>
 > 
 > Host IP address can be found as the instance's Public IP Address
 
+You will be prompted to enter a password -- this is the password you set when setting up the instance in the GCP.
+
 Once you are in the psql environment, you can display all databases using `\l`. 
 To exit the display, press `q`.
 
