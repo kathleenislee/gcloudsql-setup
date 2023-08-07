@@ -66,6 +66,6 @@ You can now begin creating tables in your database. Table creation can be confir
 
 ## TROUBLESHOOTING
 
-***psql: error: connection server at "<IP-address>"h, port 5432 failed: Connection timed out***
+***psql: error: connection server at "IP-address", port 5432 failed: Connection timed out***
 
 Your server may not be running, so clients cannot connect to it. Check in the GCP that your instance is running.
